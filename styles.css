@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+img{
+    width: 100%;
+    max-width: 100%;
+}
+.body{
+    margin: 8px;
+    display: block;
+    background-color: #A3AB78;
+    color:#10454F;
+}
+
+#mainHeading{
+    color:#ccff16;
+    background-color: #10454F;
+}
+
+ul{
+    padding-inline-start: 40px;
+    list-style: square;
+    display: inline-block;
+}
+
+.funParagraph{
+    color:brown;
+}
+
+h2{
+    color:#ccff16;
+}
+
+.link{
+    color:#A3AB78;
+}
+
+footer{
+    color:#10454F;
+}
